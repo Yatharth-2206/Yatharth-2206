@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yatharth Aphale</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Excel • MySQL • Power BI • Python • Generative AI
+Aspiring Business & Data Analyst | Excel • MySQL • Power BI • Python • Generative AI
 </h3>
 
 ---
