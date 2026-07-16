@@ -77,4 +77,3 @@ Aspiring Business & Data Analyst | Excel • MySQL • Power BI • Python • G
 ---
 
 ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories, discover my projects, and connect with me.
-```
